@@ -1,5 +1,4 @@
 import pyodbc
-import pandas as pd
 from config import create_connection_string, db_config
 from email_helper import send_email
 from datetime import datetime

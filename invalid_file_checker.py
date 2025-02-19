@@ -3,7 +3,6 @@ import pandas as pd
 from dropship_db import ExampleDb
 from xlsx_parser import XlsxParser
 from tqdm import tqdm
-import csv
 import os
 
 
